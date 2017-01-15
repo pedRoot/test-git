@@ -1,1 +1,1 @@
-        1 file(s) copied.
+<?php echo "Hola mundo bendecido"; ?>
